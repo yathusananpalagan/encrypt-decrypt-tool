@@ -28,7 +28,6 @@ Here are some important files in the project structure:
 - [**history.csv**](./out/history.csv): CSV file storing logs of operations (message, result, timestamp).
 - [**history.txt**](./out/history.txt): Text file with a readable log of operations, including timestamps and results.
 
-
 ## 🔧 Installation
 
 ### 📝 Things Needed:
@@ -94,10 +93,13 @@ This will launch the GUI where you can interactively choose to encrypt or decryp
 
 ## 🖼️ Screenshots
 ### Encrypt Tab
+![EncryptTab](./docs/EncryptTab.png)
 
 ### Decrypt Tab
+![DecryptTab](./docs/DecryptTab.png)
 
 ### History Tab
+![HistoryTab](./docs/HistoryTab.png)
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
