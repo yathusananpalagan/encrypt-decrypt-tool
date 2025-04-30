@@ -20,7 +20,9 @@
 [![Technologies](https://skillicons.dev/icons?i=git,github,vscode,py,md,windows)](https://skillicons.dev)
 
 ## 📂 Project Structure
-TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO
+Here are some important files in the project structure:
+- [**encrypt-decrypt-tool.py**](./encrypt-decrypt-tool.py):
+- []
 
 ## 🔧 Installation
 
