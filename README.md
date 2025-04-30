@@ -21,8 +21,13 @@
 
 ## 📂 Project Structure
 Here are some important files in the project structure:
-- [**encrypt-decrypt-tool.py**](./encrypt-decrypt-tool.py):
-- []
+- [**encrypt-decrypt-tool.py**](./encrypt-decrypt-tool.py): The main Python script that runs the tool
+- [**requirements.txt**](./requirements.txt): A text file containing a list of required Python libraries to run the project
+- [**README.md**](./README.md): This documentation file, which explains the project and how to use it.
+- [**out/**](./out): Directory containing history logs for encryption and decryption operations.
+- [**history.csv**](./out/history.csv): CSV file storing logs of operations (message, result, timestamp).
+- [**history.txt**](./out/history.txt): Text file with a readable log of operations, including timestamps and results.
+
 
 ## 🔧 Installation
 
